@@ -1,0 +1,19 @@
+Benefits of a remote repository
+Easy access 
+Copys 
+You can share your work and obtain feedback 
+
+git add "filename" 
+git commit -m "message"
+git push -u origin main
+
+
+git clone 
+git fetch 
+git pull 
+git push 
+
+
+Why to use branches 
+safe testing place 
+and others can view your work 
